@@ -1,0 +1,7 @@
+//my first Mod So i will Slowly add up to this
+
+// Add a basic ingredient using the 'fruit' ingredient as a base
+addIngredient("crate",{
+    color:"##e8cda9", //Tan
+    type:"Wood" //will inherit all properties of the 'fruit' ingredient
+});
